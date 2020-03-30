@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XScreenshotFix</string>
+    <string name="app_xposed_desc">Fix global screenshot fails to save file due to illegal character in filename (Oreo ~ Pie)</string>
+</resources>

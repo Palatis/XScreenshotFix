@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XScreenshotFix</string>
+    <string name="app_xposed_desc">避免全域螢幕擷取因為某些套件檔案中有奇怪字元無法存檔的問題（Oreo ~ Pie）</string>
+</resources>
